@@ -1,3 +1,4 @@
+#Plugin
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
